@@ -1,3 +1,4 @@
+Vinicius,Micaella,Mikelly,Lidiane,Luan
 # Sistema de Login e Operações Matemáticas
 
 Este projeto consiste em um sistema de login simples com redirecionamento para uma página de operações matemáticas. O sistema foi desenvolvido utilizando HTML, CSS e JavaScript.
